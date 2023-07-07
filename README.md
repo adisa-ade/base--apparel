@@ -27,10 +27,6 @@ Users should be able to:
   - The `input` field is empty
   - The email address is not formatted correctly
 
-### Screenshot
-
-(images/screenshot.jpg)
-
 
 ### Links
 
